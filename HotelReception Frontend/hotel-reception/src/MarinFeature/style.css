@@ -1,0 +1,50 @@
+#guestDiv {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 1.5rem;
+}
+
+#addNewGuestBtn {
+  position: fixed;
+  bottom: 0;
+  right: 10%;
+}
+
+#pidBtn {
+  display: none;
+}
+
+#dateDiv {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 1.5rem;
+}
+
+#roomsDiv {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 1.5rem;
+}
+
+.roomData {
+  text-align: center;
+}
+
+.submitClass {
+  margin-left: 1rem;
+}
+
+.sortBtn {
+  width: 10%;
+  border: none;
+  background-color: white;
+  margin-left: 0.5rem;
+}
+
+.tableHead {
+  text-align: center;
+}
+
+.filterInput {
+  width: 25%;
+}
